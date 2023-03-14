@@ -12,3 +12,4 @@ def timer(f, *args):
 
 
 print(timer(sum, range(1000000)))
+ 
